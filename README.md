@@ -1,2 +1,3 @@
 # Point Of Sale Terminal Service Library Demo
-Code challenge
+
+Simple library for eftpo.
