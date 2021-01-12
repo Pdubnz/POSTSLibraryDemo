@@ -1,3 +1,3 @@
 # Point Of Sale Terminal Service Library Demo
 
-Simple library for eftpo.
+Simple library for eftpos.
